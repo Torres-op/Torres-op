@@ -1,10 +1,13 @@
 # E ae, tudo tranquilo? :sunglasses:
 
-Meu nome é Victor Torres de Olivera Pereira e eu sou **Fullstack Developer** desde 2022, atualmente sou estudante da [@cubosacademy](https://cubos.academy/).
+Eu sou o Victor Torres, tenho 23 anos e eu sou **Fullstack Developer** em formação pela [@cubosacademy](https://cubos.academy/).
+
+Sou extremamente apaixonado por jogos, sejam online ou de tabuleiro, e adoro ler manga e ver animes de vez em quando.
 
 ## Você pode me encrontar em: :globe_with_meridians:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-torresop/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/devallin)
 
 ## Hard Skills: :desktop_computer:
 
