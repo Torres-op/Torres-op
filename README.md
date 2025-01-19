@@ -1,6 +1,6 @@
 # E ae, tudo tranquilo? :sunglasses:
 
-Eu sou o Victor Torres, tenho 23 anos e eu sou **Fullstack Developer** em formação pela [@cubosacademy](https://cubos.academy/).
+Eu sou o Victor Torres, tenho 24 anos e eu sou **Fullstack Developer** atualmente cursando Engenharia de Software pela Universidade de Vassouras.
 
 Sou extremamente apaixonado por jogos, sejam online ou de tabuleiro, e adoro ler manga e ver animes de vez em quando.
 
