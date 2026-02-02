@@ -1,6 +1,6 @@
 # E ae, tudo tranquilo? :sunglasses:
 
-Eu sou o Victor Torres, tenho 24 anos e eu sou **Fullstack Developer** atualmente cursando Engenharia de Software pela Universidade de Vassouras.
+Eu sou o Victor Torres, tenho 25 anos e eu sou **Fullstack Developer** atualmente cursando Engenharia de Software pela Universidade de Vassouras.
 
 Sou extremamente apaixonado por jogos, sejam online ou de tabuleiro, e adoro ler manga e ver animes de vez em quando.
 
